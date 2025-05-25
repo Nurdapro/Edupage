@@ -80,7 +80,7 @@ Teachers can browse public courses and add them to their own teaching panel.
 ## 🛠️ Technologies Used
 
 - HTML / CSS / JavaScript  
-- (Optional: add backend stack here, e.g., Django, Flask, Node.js)  
+- php
 - Clean and beginner-friendly file structure
 
 ---
